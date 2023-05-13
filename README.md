@@ -11,7 +11,7 @@
 
 
 ### GitHub Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=anks333&count_private=true&show_icons=true&theme=tokyonight)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ankitsny&count_private=true&show_icons=true&theme=tokyonight)
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#14554](https://github.com/rust-lang/rust-analyzer/issues/14554) in [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer)
