@@ -14,3 +14,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=anks333&count_private=true&show_icons=true&theme=tokyonight)
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#14554](https://github.com/rust-lang/rust-analyzer/issues/14554) in [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer)
+2. ❗️ Closed issue [#543](https://github.com/samchon/typia/issues/543) in [samchon/typia](https://github.com/samchon/typia)
+3. ❗️ Opened issue [#543](https://github.com/samchon/typia/issues/543) in [samchon/typia](https://github.com/samchon/typia)
+<!--END_SECTION:activity-->
