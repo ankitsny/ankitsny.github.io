@@ -13,6 +13,9 @@
 ### GitHub Stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ankitsny&count_private=true&show_icons=true&theme=tokyonight)
 
+<p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=ankitsny&show_icons=true&theme=tokyonight&count_private=true" <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitsny&theme=tokyonight&layout=compact&hide_langs_below=1" /></p>
+
+### GitHub Activities
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#14554](https://github.com/rust-lang/rust-analyzer/issues/14554) in [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer)
 2. ❗️ Closed issue [#543](https://github.com/samchon/typia/issues/543) in [samchon/typia](https://github.com/samchon/typia)
