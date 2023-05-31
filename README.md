@@ -21,6 +21,6 @@
 ### GitHub Activities
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#14554](https://github.com/rust-lang/rust-analyzer/issues/14554) in [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer)
-2. ❗️ Closed issue [#543](https://github.com/samchon/typia/issues/543) in [samchon/typia](https://github.com/samchon/typia)
-3. ❗️ Opened issue [#543](https://github.com/samchon/typia/issues/543) in [samchon/typia](https://github.com/samchon/typia)
+2. 🔒 Closed issue [#543](https://github.com/samchon/typia/issues/543) in [samchon/typia](https://github.com/samchon/typia)
+3. ❗ Opened issue [#543](https://github.com/samchon/typia/issues/543) in [samchon/typia](https://github.com/samchon/typia)
 <!--END_SECTION:activity-->
