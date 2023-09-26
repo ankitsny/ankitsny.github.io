@@ -20,7 +20,7 @@
 
 ### GitHub Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#260](https://github.com/vmware/terraform-provider-tanzu-mission-control/pull/260) in [vmware/terraform-provider-tanzu-mission-control](https://github.com/vmware/terraform-provider-tanzu-mission-control)
-2. 🗣 Commented on [#62](https://github.com/hashicorp/terraform-provider-hashicups/issues/62#issuecomment-1702257482) in [hashicorp/terraform-provider-hashicups](https://github.com/hashicorp/terraform-provider-hashicups)
-3. 🗣 Commented on [#194](https://github.com/clinicjs/node-clinic/issues/194#issuecomment-1677244658) in [clinicjs/node-clinic](https://github.com/clinicjs/node-clinic)
+1. 💪 Opened PR [#272](https://github.com/vmware/terraform-provider-tanzu-mission-control/pull/272) in [vmware/terraform-provider-tanzu-mission-control](https://github.com/vmware/terraform-provider-tanzu-mission-control)
+2. 💪 Opened PR [#260](https://github.com/vmware/terraform-provider-tanzu-mission-control/pull/260) in [vmware/terraform-provider-tanzu-mission-control](https://github.com/vmware/terraform-provider-tanzu-mission-control)
+3. 🗣 Commented on [#62](https://github.com/hashicorp/terraform-provider-hashicups/issues/62#issuecomment-1702257482) in [hashicorp/terraform-provider-hashicups](https://github.com/hashicorp/terraform-provider-hashicups)
 <!--END_SECTION:activity-->
